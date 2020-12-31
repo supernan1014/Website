@@ -14,11 +14,13 @@ Content
 
 .. toctree::
    :maxdepth: 2
-   :caption: Class 1:
+   :caption: Chapter 0:
 
-   Class1/index.rst
-
-
+   Chapter1/1.1.rst
+   Chapter1/1.2.rst
+   Chapter1/1.3.rst 
+   Chapter1/1.4.rst
+   Chapter1/1.5.rst
 
 Indices and tables
 ==================
