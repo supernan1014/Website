@@ -6,9 +6,17 @@
 Welcome to TUST's documentation!
 ================================
 
+Welcome to **Engineering Drawing** class.
+
+
+Content
+======================================
+
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Class 1:
+
+   Class1/index.rst
 
 
 
