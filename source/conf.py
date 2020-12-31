@@ -13,6 +13,9 @@
 # import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
+import os
+os.system('pip install yummy-sphinx-theme')
+
 
 
 # -- Project information -----------------------------------------------------
