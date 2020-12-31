@@ -21,6 +21,20 @@ Content
    Chapter1/1.3.rst 
    Chapter1/1.4.rst
    Chapter1/1.5.rst
+   Chapter1/1.6.rst
+   Chapter1/1.7.rst
+   Chapter1/2.1.rst
+   Chapter1/2.2.rst
+   Chapter1/2.3.rst
+   Chapter1/2.4.rst
+   Chapter1/2.5.rst
+   Chapter1/2.6.rst
+   Chapter1/2.7.rst
+   Chapter1/2.8.rst
+   Chapter1/2.9.rst
+   Chapter1/2.10.rst
+
+
 
 Indices and tables
 ==================
