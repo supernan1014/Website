@@ -58,7 +58,7 @@ master_doc = 'index'
 import yummy_sphinx_theme
 # html_theme_path = [yummy_sphinx_theme.get_theme_dir()]
 html_static_path = []
-html_theme = 'yummy_sphinx_theme'
+html_theme = "yummy_sphinx_theme"
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
