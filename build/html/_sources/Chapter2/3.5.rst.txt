@@ -4,14 +4,14 @@
    contain the root `toctree` directive.
 
 
-3b.10 Examples on intersection of cylinders 
+3b.5 Examples on Intersection lines of a cone 
 ================================
 
 
- Examples on intersection of cylinders 
+ Examples on Intersection lines of a cone 
 
 .. raw:: html
 
    <video width="100%" height="100%" controls>
-   <source src="https://outin-0fed40cae50711eaa61200163e1c94a4.oss-cn-shanghai.aliyuncs.com/sv/2b17fa83-176bbfc5d4a/2b17fa83-176bbfc5d4a.mp4" type="video/mp4" />
+   <source src="https://outin-0fed40cae50711eaa61200163e1c94a4.oss-cn-shanghai.aliyuncs.com/sv/18415aa8-176bbf5e620/18415aa8-176bbf5e620.mp4" type="video/mp4" />
    </video>

@@ -47,13 +47,43 @@ Content
    Chapter2/2.1.rst
    Chapter2/2.2.rst
    Chapter2/2.3.rst 
-   Chapter2/2.4.rst
-   Chapter2/2.5.rst
-   Chapter2/2.6.rst
-   Chapter2/2.8.rst
-   Chapter2/2.9.rst
-   Chapter2/2.10.rst 
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Chapter 3:
+
+   Chapter2/3.1.rst
+   Chapter2/3.2.rst
+   Chapter2/3.3.rst
+   Chapter2/3.4.rst
+   Chapter2/3.5.rst
+   Chapter2/3.6.rst 
+   Chapter2/3.7.rst
+   Chapter2/3.8.rst
+   Chapter2/3.9.rst
+   Chapter2/3.10.rst
+   Chapter2/3.11.rst
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Chapter 4: 
+
+   Chapter4/4.1.rst
+   Chapter4/4.2.rst
+   Chapter4/4.3.rst
+   Chapter4/4.4.rst
+   Chapter4/4.5.rst
+   Chapter4/4.6.rst 
+   Chapter4/4.7.rst
   
+.. toctree::
+   :maxdepth: 2
+   :caption: Chapter 5: 
+
+   Chapter5/5.1.rst
+   Chapter5/5.2.rst
+   Chapter5/5.3.rst
+   Chapter5/5.4.rst
 
 
 Indices and tables
