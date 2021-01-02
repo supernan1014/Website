@@ -1,0 +1,17 @@
+·.. TUST documentation master file, created by
+   sphinx-quickstart on Thu Dec 31 09:28:34 2020.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+
+3b.3 Examples on intersection lines of a cylinder(1) 
+================================
+
+
+ Examples on intersection lines of a cylinder(1) 
+
+.. raw:: html
+
+   <video width="100%" height="100%" controls>
+   <source src="https://outin-0fed40cae50711eaa61200163e1c94a4.oss-cn-shanghai.aliyuncs.com/sv/39f91d99-176bbf59c50/39f91d99-176bbf59c50.mp4" type="video/mp4" />
+   </video>
