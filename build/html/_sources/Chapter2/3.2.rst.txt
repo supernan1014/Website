@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 3b.2 Examples on intersection lines of planes and a plane solid 
-================================
+================================================
 
  Examples on intersection lines of planes and a plane solid 
 
