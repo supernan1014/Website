@@ -8,6 +8,9 @@ Welcome to TUST's documentation!
 
 Welcome to **Engineering Drawing** class.
 
+学院广角
+======================================
+
 
 Content
 ======================================
