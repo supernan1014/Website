@@ -16,7 +16,7 @@ Content
 ======================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Chapter 0:
 
    Chapter1/1.1.rst
