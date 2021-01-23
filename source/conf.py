@@ -116,7 +116,7 @@ def content_change(src):
     with open(src,'w',encoding='utf-8') as f:
         f.write(txt2)
 
-src=r'.'
+src=r'./build/html'
 for a,b,c in os.walk(src):
     for cc in c:
         if cc.endswith('.html'):
