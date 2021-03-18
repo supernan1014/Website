@@ -18,10 +18,15 @@ Some things
 Study
 ======================================
 
+.. raw:: html   
+
+   <li class="toctree-l1"><a class="reference internal" href="Mechanical Drawing and READING USED on LARGE MACHINERY industry.pdf">Mechanical Drawing and READING USED on LARGE MACHINERY industry.pdf</a></li>
+   <li class="toctree-l1"><a class="reference internal" href="Engineering prints creation process.pptx">Engineering prints creation process.pptx</a></li>
+
 .. toctree::
    :maxdepth: 1
 
-
+   <li><a class="toctree-l1" href="Engineering prints creation process.pptx">Engineering prints creation process.pptx</strong></a></li>
    GONGCHENG/index.rst
    The Second/index.rst
 
